@@ -21,4 +21,4 @@ The dataset used for training, validating testing the system was sourced from [D
 - Oljeda Kaçani  
 
 ## Acknowledgments  
-We acknowledge DermNet for providing the skin disease dataset used in this project.  
+We acknowledge DermNet and A-Derma Clinic for providing the skin disease dataset used in this project.  
