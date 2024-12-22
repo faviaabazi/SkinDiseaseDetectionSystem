@@ -4,7 +4,7 @@
 This project leverages AI and deep learning to create a system for detecting skin diseases. The system enables users to upload images of affected skin areas and provides a preliminary diagnosis. Its purpose is to assist in early detection, particularly in underserved regions.  
 
 ## Data Source  
-The dataset used for training, validating testing the system was sourced from [DermNet](https://dermnetnz.org/images).
+The dataset used for training, validating testing the system was sourced from [DermNet](https://dermnetnz.org/images) and A-Derma Clinic in Tirana, Albania.
 
 ## Features  
 - Preliminary diagnosis based on image uploads.  
